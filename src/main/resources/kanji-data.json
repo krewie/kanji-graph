@@ -1,0 +1,472 @@
+[
+  {
+    "serial_number": 1,
+    "kanji": "愛",
+    "meaning": ["love"],
+    "origin": "The ancient form had a form that signified a 'person kneeling down to eat' 心 'heart' and 夂 'dragging feet' that pull one back. Together they described a state in which ones heart was filled with an emotiom and it was hard to move on, that is 'love'.",
+    "on_reading": ["アイ"],
+    "kun_reading": ["まな"],
+    "header": "心",
+    "sample_words": [
+      {
+        "kanji": "愛",
+        "reading": "あい",
+        "meaning": "love"
+      },
+      {
+        "kanji": "愛情",
+        "reading": "あいじょう",
+        "meaning": "affection"
+      },
+      {
+        "kanji": "恋愛",
+        "reading": "れんあい",
+        "meaning": "romantic love"
+      },
+      {
+        "kanji": "愛称",
+        "reading": "あいしょう",
+        "meaning": "nickname"
+      },
+      {
+        "kanji": "愛耆",
+        "reading": "あいちゃく",
+        "meaning": "emotional attachment"
+      },
+      {
+        "kanji": "愛用する",
+        "reading": "あいようする",
+        "meaning": "to use regularly"
+      }
+    ],
+    "stroke_number": 13,
+    "jlpt_grade": 2,
+    "frequency": 287,
+    "radical": "心",
+    "components": ["心"]
+  },
+  {
+    "serial_number": 2,
+    "kanji": "悪",
+    "meaning": ["bad", "evil"],
+    "origin": "The top of the older form showed a cross above the ground with a heart underneath, representing something 'suppressed'. The bottom 心 depicted an anatomical heart, symbolizing 'heart' or 'feelings'. Together, they expressed 'suppressed bad feelings' or simply 'bad' or 'evil'.",
+    "on_reading": ["アク", "オ"],
+    "kun_reading": ["わる(い)", "あ(しき)"],
+    "header": "心",
+    "sample_words": [
+      {
+        "kanji": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
+      },
+      {
+        "kanji": "悪",
+        "reading": "あく",
+        "meaning": "evil"
+      },
+      {
+        "kanji": "最悪",
+        "reading": "さいあく",
+        "meaning": "the worst"
+      },
+      {
+        "kanji": "悪意",
+        "reading": "あくい",
+        "meaning": "ill intention"
+      },
+      {
+        "kanji": "悪用",
+        "reading": "あくよう",
+        "meaning": "misuse"
+      },
+      {
+        "kanji": "嫌悪感",
+        "reading": "けんおかん",
+        "meaning": "abhorrence"
+      }
+    ],
+    "stroke_number": 11,
+    "jlpt_grade": 2,
+    "frequency": 287,
+    "radical": "心",
+    "components": ["亜", "心"]
+  },
+  {
+    "serial_number": 3,
+    "kanji": "圧",
+    "meaning": ["to press", "pressure"],
+    "origin": "The old form consisted of 厂 'smothering cover', 日 'bone joint' and 月 'meat or flesh' of 犬 'dog or animal', which indicated sweet meat. After eating sweet meat, one feels full and a pressure in ones stomach. 土 'soil' added the meaning of pushing down. The reduced current form 圧 means 'to pressure' or 'pressure'.",
+    "on_reading": ["アツ"],
+    "kun_reading": [],
+    "header": "土",
+    "sample_words": [
+      {
+        "kanji": "圧力",
+        "reading": "あつりょく",
+        "meaning": "pressure"
+      },
+      {
+        "kanji": "気圧",
+        "reading": "きあつ",
+        "meaning": "atmospheric pressure"
+      },
+      {
+        "kanji": "血圧",
+        "reading": "けつあつ",
+        "meaning": "blood pressure"
+      },
+      {
+        "kanji": "抑圧的",
+        "reading": "よくあつてき",
+        "meaning": "oppressive"
+      },
+      {
+        "kanji": "圧する",
+        "reading": "あつする",
+        "meaning": "to weigh on"
+      },
+      {
+        "kanji": "圧倒的",
+        "reading": "あっとうてき",
+        "meaning": "overwhelming"
+      }
+    ],
+    "stroke_number": 5,
+    "jlpt_grade": 2,
+    "frequency": 591,
+    "radical": "土",
+    "components": ["厂", "土"]
+  },
+  {
+    "serial_number": 4,
+    "kanji": "安",
+    "meaning": ["secure", "peaceful", "inexpensive", "cheap"],
+    "origin": "The combination of 宀 'house' and 女 'woman' resting at home indicated 'safety or at ease'. Inexpensive things are less stressful to buy; hence, another meaning was 'inexpensive'. The kanji 安 means 'secure' or 'peaceful' and also 'inexpensive, cheap'.",
+    "on_reading": ["アン"],
+    "kun_reading": ["やす(い)"],
+    "header": "宀",
+    "sample_words": [
+      {
+        "kanji": "安い",
+        "reading": "やすい",
+        "meaning": "inexpensive, cheap"
+      },
+      {
+        "kanji": "安価",
+        "reading": "あんか",
+        "meaning": "reasonably priced"
+      },
+      {
+        "kanji": "格安な",
+        "reading": "かくやすな",
+        "meaning": "moderately priced, bargain priced"
+      },
+      {
+        "kanji": "安心する",
+        "reading": "あんしんする",
+        "meaning": "to feel relieved"
+      },
+      {
+        "kanji": "不安な",
+        "reading": "ふあんな",
+        "meaning": "anxious"
+      },
+      {
+        "kanji": "安全",
+        "reading": "あんぜん",
+        "meaning": "safe"
+      }
+    ],
+    "stroke_number": 6,
+    "jlpt_grade": 2,
+    "frequency": 188,
+    "radical": "宀",
+    "components": ["宀", "女"]
+  },
+  {
+    "serial_number": 5,
+    "kanji": "暗",
+    "meaning": ["dark", "unclear"],
+    "origin": "The kanji consisted of 日 'sun' and 音 'a sharp needle and something inside a mouth'. When people try to speak with something in their mouths, their words often come out garbled or 'unclear'. The two forms combine to indicate 'sun not clearly seen' and thus the kanji 暗 means 'dark; unclear'",
+    "on_reading": ["アン"],
+    "kun_reading": ["くら(い)"],
+    "header": "日",
+    "sample_words": [
+      {
+        "kanji": "暗い",
+        "reading": "くらい",
+        "meaning": "dark"
+      },
+      {
+        "kanji": "暗記する",
+        "reading": "あんきする",
+        "meaning": "to learn by heart"
+      },
+      {
+        "kanji": "明暗",
+        "reading": "めいあん",
+        "meaning": "light and darkness"
+      },
+      {
+        "kanji": "暗号",
+        "reading": "あんごう",
+        "meaning": "secret code; password"
+      },
+      {
+        "kanji": "暗示",
+        "reading": "あんじ",
+        "meaning": "hint"
+      },
+      {
+        "kanji": "暗黙の了解",
+        "reading": "あんもくのりょうかい",
+        "meaning": "tacit understanding"
+      }
+    ],
+    "stroke_number": 13,
+    "jlpt_grade": 2,
+    "frequency": 455,
+    "radical": "日",
+    "components": ["日", "音"]
+  },
+  {
+    "serial_number": 6,
+    "kanji": "案",
+    "meaning": ["plan", "proposed idea"],
+    "origin": "On the top 宀 'house' and 女 'woman' indicated 'secure and peaceful', here used phonetically. The bottom 木 'wood' indicated a 'desk'. One thinks of a plan at a desk. The kanji 案 means 'proposed idea' or 'plan'.",
+    "on_reading": ["アン"],
+    "kun_reading": [],
+    "header": "木",
+    "sample_words": [
+      {
+        "kanji": "案",
+        "reading": "あん",
+        "meaning": "proposal"
+      },
+      {
+        "kanji": "案内する",
+        "reading": "あんないする",
+        "meaning": "to show around"
+      },
+      {
+        "kanji": "案内所",
+        "reading": "あんないじょ",
+        "meaning": "information desk"
+      },
+      {
+        "kanji": "案外",
+        "reading": "あんがい",
+        "meaning": "unexpectedly"
+      },
+      {
+        "kanji": "提案する",
+        "reading": "ていあんする",
+        "meaning": "to propose"
+      },
+      {
+        "kanji": "名案",
+        "reading": "めいあん",
+        "meaning": "brilliant idea"
+      }
+    ],
+    "stroke_number": 10,
+    "jlpt_grade": 2,
+    "frequency": 455,
+    "radical": "木",
+    "components": ["宀", "女", "木"]
+  },
+  {
+    "serial_number": 7,
+    "kanji": "以",
+    "meaning": ["starting point", "by means of"],
+    "origin": "The left side depicted a 'plow' and the right side a 'hand'. A plow is a tool used at the start of work in the field. The kanji 以 means 'by means of' or 'starting point'.",
+    "on_reading": ["イ"],
+    "kun_reading": ["もっ(て)"],
+    "header": "人",
+    "sample_words": [
+      {
+        "kanji": "三人以上",
+        "reading": "さんにんいじょう",
+        "meaning": "three people or more"
+      },
+      {
+        "kanji": "以下",
+        "reading": "いか",
+        "meaning": "below, less than"
+      },
+      {
+        "kanji": "以内",
+        "reading": "いない",
+        "meaning": "within"
+      },
+      {
+        "kanji": "以外",
+        "reading": "いがい",
+        "meaning": "other than"
+      },
+      {
+        "kanji": "以前",
+        "reading": "いぜん",
+        "meaning": "before"
+      },
+      {
+        "kanji": "以後",
+        "reading": "いご",
+        "meaning": "thereafter"
+      }
+    ],
+    "stroke_number": 5,
+    "jlpt_grade": 2,
+    "frequency": 455,
+    "radical": "人",
+    "components": ["人", "丶"]
+  },
+  {
+    "serial_number": 8,
+    "kanji": "位",
+    "meaning": ["rank", "place", "approximately"],
+    "origin": "The kanji consisted of イ a 'standing person viewed sideways' and 位 a 'person standing, facing front'. Together they indicated a place or approximate area where one stood, according to his rank, before a ruler or in a ceremony. The kanji 位 means 'rank, place' or 'approximately'.",
+    "on_reading": ["イ"],
+    "kun_reading": ["くらい"],
+    "header": "人",
+    "sample_words": [
+      {
+        "kanji": "位",
+        "reading": "くらい",
+        "meaning": "rank"
+      },
+      {
+        "kanji": "どの位",
+        "reading": "どのくらい",
+        "meaning": "how much"
+      },
+      {
+        "kanji": "第一位",
+        "reading": "だいいちい",
+        "meaning": "first place"
+      },
+      {
+        "kanji": "位置",
+        "reading": "いち",
+        "meaning": "location"
+      },
+      {
+        "kanji": "地位",
+        "reading": "ちい",
+        "meaning": "position"
+      },
+      {
+        "kanji": "各位",
+        "reading": "かくい",
+        "meaning": "everyone (honorific)"
+      }
+    ],
+    "stroke_number": 7,
+    "jlpt_grade": 3,
+    "frequency": 276,
+    "radical": "人",
+    "components": ["人", "立"]
+  },
+  {
+    "serial_number": 79,
+    "kanji": "家",
+    "meaning": ["house", "home", "person (in compound words)"],
+    "origin": "The top cap 宀 of the kanji was a house and the 豕 was a pictograph of a pig, an important domesticated animal. Together they signified 'to put valuable things, such as pigs, in a house, to protect them'. It also refers to people who live inside the house.",
+    "on_reading": ["カ", "ケ"],
+    "kun_reading": ["いえ", "うち", "や"],
+    "header": "宀",
+    "sample_words": [
+      {
+        "kanji": "家",
+        "reading": "いえ",
+        "meaning": "house, home"
+      },
+      {
+        "kanji": "家",
+        "reading": "うち",
+        "meaning": "home"
+      },
+      {
+        "kanji": "家族",
+        "reading": "かぞく",
+        "meaning": "family members"
+      },
+      {
+        "kanji": "家庭",
+        "reading": "かてい",
+        "meaning": "home"
+      },
+      {
+        "kanji": "田中家",
+        "reading": "たなかけ",
+        "meaning": "Tanaka family"
+      },
+      {
+        "kanji": "一家",
+        "reading": "いっか",
+        "meaning": "whole family"
+      },
+      {
+        "kanji": "家主",
+        "reading": "やぬし",
+        "meaning": "landlord"
+      },
+      {
+        "kanji": "作家",
+        "reading": "さっか",
+        "meaning": "writer"
+      }
+    ],
+    "stroke_number": 10,
+    "jlpt_grade": 5,
+    "frequency": 28,
+    "radical": "宀",
+    "components": ["宀", "豕"]
+  },
+  {
+    "serial_number": 933,
+    "kanji": "分",
+    "meaning": ["to divide", "portion", "to understand", "to realize", "minute"],
+    "origin": "The top ハ 'dividing into two' and the bottom カ 'sword;knife' or 'to cut' indicated not only 'to divide' or 'portion' but also 'minute' because an hour is divided into 60 minutes. Also, when something is explained in a clear-cut manner, it is easily understood. The kanji 分 means 'to divide', 'portion', 'minute' or 'to understand; to realize'.",
+    "on_reading": ["フン", "プン"],
+    "kun_reading": ["わ(かる)", "分かる"],
+    "header": "刀",
+    "sample_words": [
+      {
+        "kanji": "分ける",
+        "reading": "わける",
+        "meaning": "to divide"
+      },
+      {
+        "kanji": "十分に",
+        "reading": "じゅうぶんに",
+        "meaning": "plentifully"
+      },
+      {
+        "kanji": "分かる",
+        "reading": "わかる",
+        "meaning": "to understand, to realize"
+      },
+      {
+        "kanji": "五分",
+        "reading": "ごふん",
+        "meaning": "five minutes"
+      },
+      {
+        "kanji": "分別のある",
+        "reading": "ふんべつのある",
+        "meaning": "sensible"
+      },
+      {
+        "kanji": "七分目",
+        "reading": "しちぶんめ",
+        "meaning": "seven-tenths"
+      }
+    ],
+    "stroke_number": 4,
+    "jlpt_grade": 5,
+    "frequency": 8,
+    "radical": "刀",
+    "components": ["ハ", "刀"]
+  }
+]
