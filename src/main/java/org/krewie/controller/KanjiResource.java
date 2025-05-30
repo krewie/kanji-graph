@@ -34,4 +34,10 @@ public class KanjiResource {
     public List<Kanji> getAll() {
         return List.of();
     }
+
+    @GET
+    @Path("/test")
+    public String hello() {
+        return "Hello, world!";
+    }
 }
