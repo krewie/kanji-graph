@@ -57,7 +57,12 @@ public class DispatchWorker {
 
         logger.infof("Forwarding %d kanji using forwarder %s", pending.size(), forwarderType);
 
-        getForwarder().forward(pending);
+            if (getForwarder().forward(pending)) {
+
+                // Flag these requests as sent once forwarder can confirm that
+                logger.infof("Fowarded %d kanji using forwarder %s", pending.size(), forwarderType);
+                repository.markAsSent(pending);
+            }
     }
 
     private Forwarder getForwarder() {

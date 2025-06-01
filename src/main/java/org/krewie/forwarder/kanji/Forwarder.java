@@ -6,6 +6,6 @@ import org.krewie.model.KanjiEntity;
 import java.util.List;
 
 public interface Forwarder {
-    void forward(KanjiEntity kanji);
-    void forward(List<KanjiEntity> kanjiList);
+    boolean forward(KanjiEntity kanji);
+    boolean forward(List<KanjiEntity> kanjiList);
 }

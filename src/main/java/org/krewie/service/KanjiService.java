@@ -2,6 +2,7 @@ package org.krewie.service;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
+import jakarta.transaction.Transactional;
 import org.jboss.logging.Logger;
 import org.krewie.model.Kanji;
 import org.krewie.repository.KanjiEntityRepository;
@@ -17,11 +18,12 @@ public class KanjiService {
     @Inject
     KanjiEntityRepository repository;
 
+    @Transactional
     public void save(Kanji kanji) {
         repository.save(KanjiMapper.toEntity(kanji));
-        //getForwarder().forward(kanji);
     }
 
+    @Transactional
     public void saveAll(List<Kanji> kanjiList) {
         repository.saveAll(kanjiList.stream().map(KanjiMapper::toEntity).toList());
         //getForwarder().forward(kanjiList);

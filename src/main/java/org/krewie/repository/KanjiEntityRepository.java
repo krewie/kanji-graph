@@ -2,6 +2,7 @@ package org.krewie.repository;
 
 import io.quarkus.hibernate.orm.panache.PanacheRepository;
 import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.transaction.Transactional;
 import org.krewie.model.KanjiEntity;
 
 import java.util.List;
@@ -13,8 +14,15 @@ public class KanjiEntityRepository implements PanacheRepository<KanjiEntity> {
         return find("sent", false).list();
     }
 
-    public void markAsSent(List<Integer> ids) {
-        update("sent = true where id in ?1", ids);
+    @Transactional
+    public void markAsSent(List<KanjiEntity> pending) {
+        try {
+            update("sent = true where id in ?1",
+                    pending.stream().map(k -> k.id).toList()
+            );
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public void saveAll(List<KanjiEntity> entities) {
