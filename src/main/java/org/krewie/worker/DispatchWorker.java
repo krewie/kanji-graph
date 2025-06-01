@@ -33,6 +33,15 @@ public class DispatchWorker {
     @Inject
     RestForwarder restForwarder;
 
+    @Scheduled(every = "5m")
+    void logMemoryUsage() {
+        long freeMem = Runtime.getRuntime().freeMemory() / 1024 / 1024;
+        long totalMem = Runtime.getRuntime().totalMemory() / 1024 / 1024;
+        long maxMem = Runtime.getRuntime().maxMemory() / 1024 / 1024;
+
+        logger.infof("Heap usage — Free: %dMB, Total: %dMB, Max: %dMB", freeMem, totalMem, maxMem);
+    }
+
     @Scheduled(every = "30s")
     public void sendPendingKanji() {
         if (!forwardingEnabled) {
